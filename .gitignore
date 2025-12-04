@@ -1,0 +1,7 @@
+.venv/
+.idea/
+__pycache__/
+*.pdf
+main.py
+main2.py
+main3.py
