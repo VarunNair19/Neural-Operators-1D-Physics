@@ -1,16 +1,20 @@
+# --- System & Environment (Junk) ---
 .venv/
 .idea/
 __pycache__/
+*.pyc
+
+# --- Files to Exclude ---
+# Exclude all images
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Exclude PDFs
 *.pdf
+
+# Exclude main execution files
 main.py
 main2.py
 main3.py
-1D Bar PINO Train.png
-1D Heat Deep 2.png
-1D Heat Deep1.png
-1D Heat Deep Training.png
-1D Heat compare.png
-1DBAR DEEP vs FNO.png
-1DBARDEEPONET.png
-Figure_1.png
-PINO Error.png
